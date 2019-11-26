@@ -22,3 +22,6 @@ with the capability to dynamically add and edit the contents.
 	They can be sorted in ascending or descending order.
 	Edited dynamically using the table, however saving any contents
 	to file for another time is done using the respective menu items.
+	
+### Made with the intention of trying out QT for the first time	
+
